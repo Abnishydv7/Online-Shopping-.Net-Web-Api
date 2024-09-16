@@ -1,0 +1,6 @@
+@OnlineShopping_ELX.WebAPI_HostAddress = http://localhost:5041
+
+GET {{OnlineShopping_ELX.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
